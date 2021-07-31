@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Frederick Hamon
+	email = f.hamon73@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = Frederick Hamon
+#	email = frederick@deuxhuithuit.co
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
