@@ -24,7 +24,7 @@ alias -- gl='git log --all --graph --pretty=format:'"'"'%Cred%h%Creset -%C(auto)
 alias -- code.='code .'
 
 # Secrets ( ͡° ͜ʖ ͡°)
-. .secrets
+. ~/dotfiles/.secrets
 
 # z.sh
-. ./z/z.sh
+. ~/dotfiles/z/z.sh
